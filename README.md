@@ -25,3 +25,7 @@ Notes:
 - 'r' and 'R' restart the game.
 
 # Running the code!
+
+Starting the game:
+
+![image](https://user-images.githubusercontent.com/95401100/213894781-a2ff71bc-b314-43d1-b32b-546f9e6ef84b.png)
